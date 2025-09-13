@@ -1,4 +1,4 @@
---// 99 Nights in the Forest Script with Rayfield GUI //--
+--// HUUNOHUB 🧨🧨 //--
 
 -- Load Rayfield UI Library
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
